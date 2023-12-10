@@ -35,6 +35,12 @@ html body {
   text-transform: uppercase;
   font-weight: 600;
   font-size: small;
+  cursor: pointer;
+}
+
+#nav h4:hover {
+  transform: scale(1.4);
+  color: yellowgreen;
 }
 
 video {
